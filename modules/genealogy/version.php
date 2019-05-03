@@ -19,7 +19,7 @@ $module_version = array(
 	'virtual' => 1, // 1:0 => Co cho phep ao hao module hay khong
 	'version' => '4.0.0', // Phien ban cua modle
 	'date' => 'Sun, 11 Oct 2015 00:00:00 GMT', // Ngay phat hanh phien ban
-	'author' => 'Webvang (hoang.nguyen@webvang.vn)', // Tac gia
+	'author' => 'NV Branding (hoang.nt@nvbranding.vn)', // Tac gia
 	'note' => '', // Ghi chu
 	'uploads_dir' => array( $module_upload, $module_upload . '/temp_pic' ),
 	'files_dir' => array()
