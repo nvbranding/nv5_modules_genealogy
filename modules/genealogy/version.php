@@ -1,9 +1,9 @@
 <?php
 
 /**
- * @Project NUKEVIET 4.x
- * @Author webvang (hoang.nguyen@webvang.vn)
- * @Copyright (C) 2015 Webvang. All rights reserved
+ * @Project NUKEVIET 5.x
+ * @Author NVBranding (hoang.nt@nvbranding.vn)
+ * @Copyright (C) 2015 NVBranding. All rights reserved
  * @License GNU/GPL version 2 or any later version
  * @Createdate 11/10/2015 00:00
  */
@@ -17,7 +17,7 @@ $module_version = array(
 	'submenu' => 'content,rss,search',
 	'is_sysmod' => 0, // 1:0 => Co phai la module he thong hay khong
 	'virtual' => 1, // 1:0 => Co cho phep ao hao module hay khong
-	'version' => '4.0.0', // Phien ban cua modle
+	'version' => '5.0.00', // Phien ban cua modle
 	'date' => 'Sun, 11 Oct 2015 00:00:00 GMT', // Ngay phat hanh phien ban
 	'author' => 'NV Branding (hoang.nt@nvbranding.vn)', // Tac gia
 	'note' => '', // Ghi chu
